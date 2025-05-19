@@ -1,0 +1,22 @@
+.card-container {
+  background: linear-gradient(135deg, #f0f4ff, #ffffff);
+  border: 1px solid #ddd;
+  border-radius: 16px;
+  padding: 1.8rem;
+  margin-top: 2rem;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+}
+
+.card-name {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #4b4b9c;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.card-info p {
+  margin: 0.4rem 0;
+  color: #333;
+  line-height: 1.5;
+}
